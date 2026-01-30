@@ -1,21 +1,17 @@
-<br>
+# 👋 Hi, I'm Jad!
 
-<h1 align="center">✍️ My GitHub Stats</h1>
+## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jadaboawwad&show_icons=true&theme=dark&hide_border=true)
 
-<a href="https://github.com/jadaboawwad/jadaboawwad">
-  <img style="margin-left:10px; margin-top:10px;" src="https://github-readme-stats.vercel.app/api?username=jadaboawwad&show_icons=true&theme=github_dark" alt="Jad's GitHub Stats" />
-</a>
+![GitHub Streak](https://streak-stats.demolab.com/?user=jadaboawwad&theme=dark&hide_border=true)
 
-<a href="https://github.com/jadaboawwad/jadaboawwad">
-  <img style="margin-left:10px; margin-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadaboawwad&layout=compact&theme=github_dark" alt="Top Languages" />
-</a>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jadaboawwad&layout=compact&theme=dark&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jadaboawwad&color=red&style=flat-square&label=PROFILE+VIEWS)
+## 📈 Contribution Graph
 
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadaboawwad&theme=github-compact&hide_border=true)](https://github.com/jadaboawwad)
 
-<br/>
+---
 
-![Wave](https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=jadaboawwad&color=blueviolet&style=flat)
