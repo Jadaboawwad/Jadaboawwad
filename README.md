@@ -11,9 +11,6 @@
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jadaboawwad&layout=compact&theme=dark)
 
-## 🏆 Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=jadaboawwad&theme=darkhub&no-frame=true&row=2&column=3)
 
 ---
 
