@@ -9,8 +9,6 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jadaboawwad&show_icons=true&theme=dark&count_private=true)
 
-![Streak Stats](https://streak-stats.demolab.com/?user=jadaboawwad&theme=dark)
-
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jadaboawwad&layout=compact&theme=dark)
 
 ## 🏆 Achievements
