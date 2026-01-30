@@ -1,25 +1,22 @@
 # 👋 Hi, I'm Jad!
 
-<div align="center">
+## 📊 GitHub Stats
 
-## 📊 GitHub Statistics
+<!-- All-in-One GitHubCard (Recommended) -->
+![GitHub Card](https://githubcard.com/jadaboawwad.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadaboawwad&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<!-- OR use individual cards: -->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jadaboawwad&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jadaboawwad&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadaboawwad&layout=compact&theme=dark&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=jadaboawwad&theme=dark)
 
-## 🏆 GitHub Trophies
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jadaboawwad&layout=compact&theme=dark)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jadaboawwad&theme=darkhub&no-frame=true&row=2&column=3)
+## 🏆 Achievements
 
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jadaboawwad&theme=github-compact&hide_border=true)](https://github.com/jadaboawwad)
+![Trophy](https://github-profile-trophy.vercel.app/?username=jadaboawwad&theme=darkhub&no-frame=true&row=2&column=3)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=jadaboawwad&color=blueviolet&style=flat)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=jadaboawwad&color=blueviolet)
