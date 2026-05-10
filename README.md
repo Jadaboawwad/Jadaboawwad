@@ -35,7 +35,7 @@ Git Config                         7 hrs 18 mins         ░░░░░░░�
 
 ---
 
-## 📊 WakaTime Stats
+## 📊 Weekly Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C073%20hrs%2049%20mins-blue?style=flat)
