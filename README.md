@@ -49,17 +49,17 @@ My documented learning journey through full-stack development at **LTUC ASAC** �
 <!--START_SECTION:wakaall-->
 
 ```txt
-Total Time: 5,031 hrs 29 mins
+Total Time: 5,033 hrs 21 mins
 
-Dart                               2,079 hrs 43 mins     ██████████▒░░░░░░░░░░░░░░   40.89 %
-TypeScript                         1,432 hrs 26 mins     ███████░░░░░░░░░░░░░░░░░░   28.16 %
-Python                             448 hrs 59 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-JavaScript                         335 hrs 25 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-CSS                                151 hrs 32 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-JSON                               131 hrs 52 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-YAML                               95 hrs 48 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Bash                               84 hrs 43 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Other                              54 hrs 33 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Dart                               2,080 hrs 27 mins     ██████████▒░░░░░░░░░░░░░░   40.89 %
+TypeScript                         1,433 hrs 22 mins     ███████░░░░░░░░░░░░░░░░░░   28.17 %
+Python                             448 hrs 59 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+JavaScript                         335 hrs 25 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+CSS                                151 hrs 33 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+JSON                               131 hrs 53 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+YAML                               95 hrs 54 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Bash                               84 hrs 47 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Other                              54 hrs 34 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 Markdown                           53 hrs 32 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 XML                                30 hrs 48 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 Groovy                             29 hrs 52 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
