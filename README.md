@@ -80,28 +80,28 @@ Git Config                         7 hrs 25 mins         ░░░░░░░�
 ## 📊 Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C087%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C165%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.77%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                942 commits         ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-🌆 Daytime                2741 commits        █████████████████░░░░░░░░   68.51 % 
-🌃 Evening                270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+🌞 Morning                945 commits         ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+🌆 Daytime                2741 commits        █████████████████░░░░░░░░   68.44 % 
+🌃 Evening                271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 🌙 Night                  48 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   573 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Tuesday                  601 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Wednesday                765 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Thursday                 566 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Monday                   577 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Tuesday                  601 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Wednesday                765 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Thursday                 566 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 Friday                   77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Saturday                 682 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Sunday                   737 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Saturday                 682 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Sunday                   737 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
 ```
 
 
@@ -111,24 +111,25 @@ Sunday                   737 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-TypeScript               8 hrs 3 mins        █████████████░░░░░░░░░░░░   51.69 % 
-Dart                     5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.96 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+TypeScript               8 hrs 19 mins       █████████████░░░░░░░░░░░░   50.48 % 
+Dart                     5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 18 mins      █████████████████████████   98.84 % 
+Unknown Editor           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🐱‍💻 Projects: 
-mobile-user              4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.96 % 
-wefix-backend-oms        2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-wefix-backend-mms        2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-wefix-frontend-oms       1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-mobile-technician        1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+mobile-user              5 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+wefix-backend-mms        2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+wefix-backend-oms        2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+wefix-frontend-oms       2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+mobile-technician        1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 💻 Operating System: 
-Linux                    15 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,6 +145,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 19:45:36 UTC
+ Last Updated on 18/05/2026 20:13:07 UTC
 <!--END_SECTION:waka-->
 
