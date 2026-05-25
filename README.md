@@ -87,17 +87,17 @@ Git Config                         7 hrs 25 mins         ░░░░░░░�
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                985 commits         ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-🌆 Daytime                2772 commits        █████████████████░░░░░░░░   67.73 % 
-🌃 Evening                285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+🌞 Morning                985 commits         ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+🌆 Daytime                2772 commits        █████████████████░░░░░░░░   67.71 % 
+🌃 Evening                286 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 🌙 Night                  51 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   577 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Tuesday                  636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Wednesday                787 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Monday                   578 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Tuesday                  636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                787 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
 Thursday                 567 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 Friday                   81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 Saturday                 704 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
@@ -111,25 +111,24 @@ Sunday                   741 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Dart                     11 hrs 31 mins      █████████████████░░░░░░░░   68.76 % 
-TypeScript               2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Dart                     10 hrs 35 mins      ██████████████████░░░░░░░   71.46 % 
+TypeScript               1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 19 mins      ████████████████████████░   97.34 % 
-Claude Code              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+VS Code                  14 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobile-user              11 hrs 56 mins      ██████████████████░░░░░░░   71.19 % 
-wefix-frontend-oms       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-restored                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-wefix-backend-mms        43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-terminals                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+mobile-user              11 hrs              ███████████████████░░░░░░   74.18 % 
+wefix-frontend-oms       1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+restored                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+wefix-backend-mms        25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+terminals                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 💻 Operating System: 
-Linux                    16 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,6 +144,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 19:48:25 UTC
+ Last Updated on 25/05/2026 20:10:06 UTC
 <!--END_SECTION:waka-->
 
