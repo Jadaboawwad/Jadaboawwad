@@ -111,24 +111,24 @@ Sunday                   741 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Dart                     9 hrs 51 mins       ██████████████████░░░░░░░   72.17 % 
-TypeScript               1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Dart                     6 hrs 40 mins       ███████████████████████░░   90.62 % 
+TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobile-user              10 hrs 15 mins      ███████████████████░░░░░░   75.13 % 
-wefix-frontend-oms       1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-restored                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-terminals                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-wefix-backend-mms        20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+mobile-user              6 hrs 45 mins       ███████████████████████░░   91.75 % 
+wefix-backend-mms        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+wefix-backend-shms       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+terminals                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+agent-tools              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Linux                    13 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    7 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,6 +144,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2026 20:31:39 UTC
+ Last Updated on 27/05/2026 20:34:51 UTC
 <!--END_SECTION:waka-->
 
