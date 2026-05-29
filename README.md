@@ -80,70 +80,23 @@ Git Config                         7 hrs 25 mins         ░░░░░░░�
 ## 📊 Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C179%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C182%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.78%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                985 commits         ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-🌆 Daytime                2772 commits        █████████████████░░░░░░░░   67.71 % 
-🌃 Evening                286 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-🌙 Night                  51 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   578 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Tuesday                  636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Wednesday                787 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Thursday                 567 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Friday                   81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Saturday                 704 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Sunday                   741 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Amman
-
-💬 Programming Languages: 
-Dart                     6 hrs 40 mins       ███████████████████████░░   90.62 % 
-TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 21 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-mobile-user              6 hrs 45 mins       ███████████████████████░░   91.75 % 
-wefix-backend-mms        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-wefix-backend-shms       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-terminals                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-agent-tools              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-
-💻 Operating System: 
-Linux                    7 hrs 21 mins       █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            █████████████░░░░░░░░░░░░   52.38 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Dart                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               11 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
+JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 27/05/2026 20:34:51 UTC
+ Last Updated on 29/05/2026 20:43:40 UTC
 <!--END_SECTION:waka-->
 
