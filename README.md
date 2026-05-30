@@ -84,19 +84,66 @@ Git Config                         7 hrs 25 mins         ░░░░░░░�
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1020 commits        ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+🌆 Daytime                2802 commits        █████████████████░░░░░░░░   67.32 % 
+🌃 Evening                289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+🌙 Night                  51 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Tuesday                  636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Wednesday                789 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Thursday                 570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Friday                   127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Saturday                 721 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Sunday                   741 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Amman
+
+💬 Programming Languages: 
+Dart                     3 hrs 12 mins       ███████████████████████░░   92.30 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 28 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+mobile-user              3 hrs 14 mins       ███████████████████████░░   93.30 % 
+terminals                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+wefix-backend-mms        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+agent-tools              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+mobile-technician        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+
+💻 Operating System: 
+Linux                    3 hrs 28 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
-JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               11 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
+JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 29/05/2026 20:43:40 UTC
+ Last Updated on 30/05/2026 19:49:22 UTC
 <!--END_SECTION:waka-->
 
