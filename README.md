@@ -80,53 +80,9 @@ Git Config                         7 hrs 25 mins         ░░░░░░░�
 ## 📊 Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C188%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C188%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1032 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-🌆 Daytime                2814 commits        █████████████████░░░░░░░░   67.19 % 
-🌃 Evening                291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-🌙 Night                  51 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   587 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Tuesday                  636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Wednesday                789 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Thursday                 570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Friday                   127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Saturday                 721 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Sunday                   758 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Amman
-
-💬 Programming Languages: 
-Dart                     1 hr 28 mins        ████████████████████████░   96.89 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-
-🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-mobile-user              1 hr 27 mins        ████████████████████████░   96.63 % 
-wefix-backend-mms        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-wefix-backend-tmms       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-old-stable-mobile-user   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-wefix-backend-oms        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-💻 Operating System: 
-Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -141,6 +97,6 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2026 21:49:55 UTC
+ Last Updated on 02/06/2026 21:31:18 UTC
 <!--END_SECTION:waka-->
 
