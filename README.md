@@ -80,28 +80,28 @@ Git Config                         7 hrs 25 mins         ░░░░░░░�
 ## 📊 Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C188%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C189%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.82%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1058 commits        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-🌆 Daytime                2815 commits        █████████████████░░░░░░░░   66.74 % 
-🌃 Evening                291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+🌞 Morning                1065 commits        ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+🌆 Daytime                2817 commits        █████████████████░░░░░░░░   66.63 % 
+🌃 Evening                292 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 🌙 Night                  54 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   587 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Tuesday                  637 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Wednesday                817 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Thursday                 571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Friday                   127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Saturday                 721 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Sunday                   758 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Monday                   587 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Tuesday                  637 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Wednesday                817 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Thursday                 581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Friday                   127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Saturday                 721 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Sunday                   758 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
 ```
 
 
@@ -111,25 +111,25 @@ Sunday                   758 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-JavaScript               4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-Dart                     3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Python                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-TypeScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+JavaScript               4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+Dart                     3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Python                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+TypeScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 43 mins      █████████████████████████   98.98 % 
-Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+VS Code                  15 hrs 9 mins       █████████████████████████   99.00 % 
+Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🐱‍💻 Projects: 
-modern-portfolio         4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-mobile-user              3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-emg-pcb                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-new-pcb                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-SeAssis-BackEnd          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+modern-portfolio         4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+mobile-user              3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+emg-pcb                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+new-pcb                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+SeAssis-BackEnd          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 💻 Operating System: 
-Linux                    14 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,6 +145,6 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 21:36:44 UTC
+ Last Updated on 04/06/2026 20:33:10 UTC
 <!--END_SECTION:waka-->
 
