@@ -87,21 +87,21 @@ Git Config                         7 hrs 25 mins         ░░░░░░░�
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1065 commits        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-🌆 Daytime                2817 commits        █████████████████░░░░░░░░   66.33 % 
-🌃 Evening                311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-🌙 Night                  54 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+🌞 Morning                1070 commits        ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+🌆 Daytime                2818 commits        █████████████████░░░░░░░░   66.12 % 
+🌃 Evening                314 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+🌙 Night                  60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   587 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Tuesday                  637 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Wednesday                817 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Thursday                 581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Friday                   146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Saturday                 721 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Sunday                   758 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Monday                   587 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Tuesday                  637 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Wednesday                817 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Thursday                 581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Friday                   148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Saturday                 734 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Sunday                   758 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
 ```
 
 
@@ -111,25 +111,25 @@ Sunday                   758 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-JavaScript               4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-Dart                     3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Python                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-TypeScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Dart                     3 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+JavaScript               2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Markdown                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+TypeScript               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Python                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 9 mins       █████████████████████████   99.00 % 
-Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+VS Code                  13 hrs 9 mins       █████████████████████████   98.85 % 
+Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🐱‍💻 Projects: 
-modern-portfolio         4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-mobile-user              3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-emg-pcb                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-new-pcb                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-SeAssis-BackEnd          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+mobile-user              3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+modern-portfolio         1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+emg-pcb                  1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+new-pcb                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+SeAssis-BackEnd          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 💻 Operating System: 
-Linux                    15 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,6 +145,6 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 20:24:57 UTC
+ Last Updated on 06/06/2026 19:54:09 UTC
 <!--END_SECTION:waka-->
 
