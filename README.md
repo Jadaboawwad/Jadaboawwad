@@ -88,20 +88,20 @@ Git Config                         7 hrs 25 mins         ░░░░░░░�
 
 ```text
 🌞 Morning                1071 commits        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-🌆 Daytime                2825 commits        █████████████████░░░░░░░░   66.16 % 
-🌃 Evening                314 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-🌙 Night                  60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+🌆 Daytime                2825 commits        █████████████████░░░░░░░░   66.14 % 
+🌃 Evening                315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+🌙 Night                  60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   587 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Tuesday                  637 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Monday                   588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Tuesday                  637 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 Wednesday                817 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Thursday                 581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Thursday                 581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 Friday                   148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 Saturday                 734 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Sunday                   766 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Sunday                   766 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
 ```
 
 
@@ -111,25 +111,25 @@ Sunday                   766 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Dart                     1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-TypeScript               1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Python                   1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Dart                     1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   38.12 % 
+TypeScript               45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Bash                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 34 mins       ████████████████████████░   97.73 % 
-Claude Code              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+VS Code                  2 hrs 42 mins       █████████████████████░░░░   82.30 % 
+Claude Code              35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 
 🐱‍💻 Projects: 
-mobile-user              1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-emg-pcb                  1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-wefix-backend-mms        42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-mobile-technician        40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-wefix-backend-oms        36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+mobile-technician        58 mins             ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+mobile-user              46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+wefix-backend-oms        25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Jadaboawwad              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+airtouch-spectacles      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 💻 Operating System: 
-Linux                    6 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,6 +145,6 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 19:55:30 UTC
+ Last Updated on 08/06/2026 20:40:22 UTC
 <!--END_SECTION:waka-->
 
