@@ -80,7 +80,7 @@ Git Config                         7 hrs 25 mins         ░░░░░░░�
 ## 📊 Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C233%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C234%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154.11%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -111,25 +111,25 @@ Sunday                   34 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-TypeScript               5 hrs 28 mins       ███████████░░░░░░░░░░░░░░   45.21 % 
-Dart                     3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.72 % 
-HTML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Image (svg)              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+TypeScript               5 hrs               ███████████░░░░░░░░░░░░░░   43.73 % 
+Dart                     3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.51 % 
+HTML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Image (svg)              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 52 mins       ██████████████████░░░░░░░   73.18 % 
-Claude Code              3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+VS Code                  8 hrs 12 mins       ██████████████████░░░░░░░   71.62 % 
+Claude Code              3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
 
 🐱‍💻 Projects: 
-mobile-user              4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.52 % 
-wefix-backend-mms        2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-wefix-frontend-oms       1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-wefix-backend-shms       1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-wefix-backend-oms        1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+mobile-user              4 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.59 % 
+wefix-backend-mms        1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+wefix-frontend-oms       1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+wefix-backend-shms       1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+wefix-backend-oms        52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 
 💻 Operating System: 
-Linux                    12 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,6 +144,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2026 19:39:45 UTC
+ Last Updated on 12/07/2026 19:37:17 UTC
 <!--END_SECTION:waka-->
 
