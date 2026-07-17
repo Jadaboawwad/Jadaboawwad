@@ -87,21 +87,21 @@ Git Config                         7 hrs 25 mins         ░░░░░░░�
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                117 commits         ████████░░░░░░░░░░░░░░░░░   30.79 % 
-🌆 Daytime                118 commits         ████████░░░░░░░░░░░░░░░░░   31.05 % 
-🌃 Evening                83 commits          █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-🌙 Night                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+🌞 Morning                117 commits         ████████░░░░░░░░░░░░░░░░░   30.71 % 
+🌆 Daytime                118 commits         ████████░░░░░░░░░░░░░░░░░   30.97 % 
+🌃 Evening                84 commits          ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+🌙 Night                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Tuesday                  41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Wednesday                60 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Thursday                 38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Friday                   92 commits          ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-Saturday                 81 commits          █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Sunday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Monday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Tuesday                  41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Wednesday                60 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Thursday                 38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Friday                   93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Saturday                 81 commits          █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Sunday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
 ```
 
 
@@ -111,25 +111,25 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-TypeScript               2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-JavaScript               1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Markdown                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Dart                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+TypeScript               3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Dart                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+JavaScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 12 mins       ██████████████░░░░░░░░░░░   55.85 % 
-VS Code                  5 hrs 42 mins       ███████████░░░░░░░░░░░░░░   44.15 % 
+Claude Code              7 hrs 10 mins       █████████████░░░░░░░░░░░░   51.14 % 
+VS Code                  6 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.86 % 
 
 🐱‍💻 Projects: 
-AI Agent                 4 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.33 % 
-esp-32 board             1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-My Calculator            1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-mobile-user              1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-wefix-frontend-oms       49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+AI Agent                 4 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
+mobile-user              1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+esp-32 board             1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+My Calculator            1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+wefix-backend-oms        55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 💻 Operating System: 
-Linux                    12 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,6 +144,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 19:39:49 UTC
+ Last Updated on 17/07/2026 19:38:50 UTC
 <!--END_SECTION:waka-->
 
