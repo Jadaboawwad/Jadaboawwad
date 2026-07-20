@@ -80,7 +80,7 @@ Git Config                         7 hrs 25 mins         ░░░░░░░�
 ## 📊 Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C243%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C249%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-213.77%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -111,25 +111,25 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-TypeScript               3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Dart                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-JavaScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+TypeScript               2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.55 % 
+Dart                     1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+JavaScript               1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Docker                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 10 mins       █████████████░░░░░░░░░░░░   51.14 % 
-VS Code                  6 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.86 % 
+VS Code                  6 hrs 39 mins       ███████████████████░░░░░░   75.11 % 
+Claude Code              2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
 
 🐱‍💻 Projects: 
-AI Agent                 4 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
-mobile-user              1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-esp-32 board             1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-My Calculator            1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-wefix-backend-oms        55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+AI Agent                 2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+mobile-user              1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+My Calculator            1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+wefix-backend-oms        55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+wefix-frontend-oms       39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 💻 Operating System: 
-Linux                    14 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,6 +144,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2026 19:39:27 UTC
+ Last Updated on 20/07/2026 20:04:21 UTC
 <!--END_SECTION:waka-->
 
