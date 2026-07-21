@@ -49,28 +49,28 @@ My documented learning journey through full-stack development at **LTUC ASAC** �
 <!--START_SECTION:wakaall-->
 
 ```txt
-Total Time: 5,185 hrs 57 mins
+Total Time: 5,192 hrs 1 min
 
-Dart                               2,123 hrs 23 mins     ██████████░░░░░░░░░░░░░░░   40.50 %
-TypeScript                         1,493 hrs 9 mins      ███████░░░░░░░░░░░░░░░░░░   28.48 %
-Python                             452 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-JavaScript                         340 hrs 45 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-CSS                                158 hrs 8 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-JSON                               137 hrs 52 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-YAML                               105 hrs 58 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Bash                               89 hrs 52 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Other                              57 hrs 14 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Markdown                           56 hrs 6 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Dart                               2,123 hrs 57 mins     ██████████░░░░░░░░░░░░░░░   40.46 %
+TypeScript                         1,495 hrs 51 mins     ███████░░░░░░░░░░░░░░░░░░   28.50 %
+Python                             452 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+JavaScript                         341 hrs 8 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+CSS                                158 hrs 21 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+JSON                               138 hrs               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+YAML                               106 hrs 38 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Bash                               89 hrs 59 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Other                              57 hrs 20 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Markdown                           56 hrs 41 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 XML                                31 hrs 39 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 Groovy                             30 hrs 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-HTML                               29 hrs 30 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Docker                             24 hrs 56 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Text                               22 hrs 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+HTML                               29 hrs 33 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Docker                             24 hrs 59 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Text                               22 hrs 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 PHP                                15 hrs 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 Go                                 15 hrs 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 TOML                               9 hrs 51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Kotlin                             8 hrs 59 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Git Config                         7 hrs 25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Git Config                         7 hrs 46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:wakaall-->
