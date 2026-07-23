@@ -87,21 +87,21 @@ Git Config                         7 hrs 46 mins         ░░░░░░░�
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                117 commits         ████████░░░░░░░░░░░░░░░░░   30.39 % 
-🌆 Daytime                120 commits         ████████░░░░░░░░░░░░░░░░░   31.17 % 
-🌃 Evening                86 commits          ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-🌙 Night                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+🌞 Morning                117 commits         ████████░░░░░░░░░░░░░░░░░   30.31 % 
+🌆 Daytime                120 commits         ████████░░░░░░░░░░░░░░░░░   31.09 % 
+🌃 Evening                87 commits          ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+🌙 Night                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Wednesday                63 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Thursday                 38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Friday                   93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-Saturday                 81 commits          █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Sunday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Monday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Wednesday                63 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Friday                   93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Saturday                 81 commits          █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Sunday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
 ```
 
 
@@ -111,26 +111,26 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-TypeScript               5 hrs               █████████░░░░░░░░░░░░░░░░   34.20 % 
-Dart                     3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-YAML                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               4 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
+Dart                     2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Other                    1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+YAML                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 14 mins      ███████████████████░░░░░░   76.70 % 
-Claude Code              3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+VS Code                  10 hrs 9 mins       ██████████████████░░░░░░░   73.04 % 
+Claude Code              3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-mobile-user              2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-backend                  1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-frontend                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-store                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-emg-pcb                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+mobile-user              1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+backend                  1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+frontend                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+store                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+emg-pcb                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 
 💻 Operating System: 
-Linux                    14 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,6 +145,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2026 19:51:49 UTC
+ Last Updated on 23/07/2026 19:53:54 UTC
 <!--END_SECTION:waka-->
 
