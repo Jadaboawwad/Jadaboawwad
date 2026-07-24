@@ -80,28 +80,28 @@ Git Config                         8 hrs 25 mins         ░░░░░░░�
 ## 📊 Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C253%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C316%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-213.92%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                117 commits         ████████░░░░░░░░░░░░░░░░░   30.31 % 
-🌆 Daytime                120 commits         ████████░░░░░░░░░░░░░░░░░   31.09 % 
-🌃 Evening                87 commits          ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-🌙 Night                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+🌞 Morning                117 commits         ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌆 Daytime                120 commits         ████████░░░░░░░░░░░░░░░░░   31.01 % 
+🌃 Evening                88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+🌙 Night                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Wednesday                63 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Friday                   93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-Saturday                 81 commits          █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Sunday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Monday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Wednesday                63 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Friday                   94 commits          ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Saturday                 81 commits          █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Sunday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 ```
 
 
@@ -111,26 +111,26 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-TypeScript               4 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
-Dart                     2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Other                    1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-YAML                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+TypeScript               4 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   35.97 % 
+Dart                     2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+YAML                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Other                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 9 mins       ██████████████████░░░░░░░   73.04 % 
-Claude Code              3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+VS Code                  8 hrs 16 mins       █████████████████░░░░░░░░   68.84 % 
+Claude Code              3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.50 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🐱‍💻 Projects: 
-mobile-user              1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-backend                  1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-frontend                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-store                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-emg-pcb                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+backend                  2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+frontend                 1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+store                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+mobile-user              1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+emg-pcb                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 
 💻 Operating System: 
-Linux                    13 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,6 +145,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:53:54 UTC
+ Last Updated on 24/07/2026 19:54:01 UTC
 <!--END_SECTION:waka-->
 
