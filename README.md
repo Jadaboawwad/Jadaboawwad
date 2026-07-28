@@ -49,12 +49,12 @@ My documented learning journey through full-stack development at **LTUC ASAC** �
 <!--START_SECTION:wakaall-->
 
 ```txt
-Total Time: 5,251 hrs 1 min
+Total Time: 5,252 hrs 26 mins
 
-Dart                               2,128 hrs 27 mins     ██████████░░░░░░░░░░░░░░░   40.04 %
-TypeScript                         1,509 hrs 31 mins     ███████░░░░░░░░░░░░░░░░░░   28.39 %
+Dart                               2,129 hrs 13 mins     ██████████░░░░░░░░░░░░░░░   40.04 %
+TypeScript                         1,510 hrs 10 mins     ███████░░░░░░░░░░░░░░░░░░   28.40 %
 Python                             458 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-JavaScript                         348 hrs 33 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+JavaScript                         348 hrs 33 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
 CSS                                159 hrs 11 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 JSON                               140 hrs 11 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 YAML                               110 hrs 58 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
