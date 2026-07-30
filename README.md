@@ -113,51 +113,51 @@ Sunday                   45 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-TypeScript               2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.18 % 
-Dart                     2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.90 % 
-Image (png)              46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Dart                     2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.51 % 
+TypeScript               2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.04 % 
+Image (png)              46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       █████████████████████░░░░   84.42 % 
-Claude Code              57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+VS Code                  5 hrs 33 mins       ███████████████████████░░   92.42 % 
+Claude Code              22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🐱‍💻 Projects: 
-mobile-user              2 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.79 % 
-wefix-frontend-oms       1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-nitaq                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-wefix-backend-oms        34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-weddo-design             33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+mobile-user              2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.14 % 
+wefix-frontend-oms       1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+wefix-backend-oms        34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+weddo-design             33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+nitaq                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 💻 Operating System: 
-Linux                    6 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 21 mins (95.46%)
+⏱ AI Coding Time: 5 hrs 42 mins (95.04%)
 
-✍️ 8,109 lines written by AI, 3 lines written by hand (99.96% AI-written)
+✍️ 7,951 lines written by AI, 2 lines written by hand (99.97% AI-written)
 
-🔤 10,699,107 Input Tokens, 87,468 Output Tokens
+🔤 4,691,818 Input Tokens, 46,707 Output Tokens
 
-💵 $33.08 Estimated AI Cost This Week
+💵 $14.44 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 79 AI Prompts
+🧠 21 AI Sessions, 70 AI Prompts
 
-Cursor                   8,307 lines         █████████████████████████   98.30 % 
-Sonnet                   110 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Grok                     34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Cursor                   8,233 lines         █████████████████████████   99.38 % 
+Grok                     34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Sonnet                   17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 698 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 782 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.18% of changed lines were hand-edited
+🚀 High AI Trust — 1.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,6 +172,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 19:51:24 UTC
+ Last Updated on 30/07/2026 19:59:56 UTC
 <!--END_SECTION:waka-->
 
