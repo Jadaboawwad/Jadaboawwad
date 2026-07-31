@@ -49,23 +49,23 @@ My documented learning journey through full-stack development at **LTUC ASAC** �
 <!--START_SECTION:wakaall-->
 
 ```txt
-Total Time: 5,253 hrs 20 mins
+Total Time: 5,257 hrs 54 mins
 
-Dart                               2,129 hrs 50 mins     ██████████░░░░░░░░░░░░░░░   40.05 %
-TypeScript                         1,510 hrs 10 mins     ███████░░░░░░░░░░░░░░░░░░   28.39 %
-Python                             458 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-JavaScript                         348 hrs 33 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-CSS                                159 hrs 11 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-JSON                               140 hrs 11 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Dart                               2,131 hrs 4 mins      ██████████░░░░░░░░░░░░░░░   40.03 %
+TypeScript                         1,512 hrs 28 mins     ███████░░░░░░░░░░░░░░░░░░   28.41 %
+Python                             458 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+JavaScript                         348 hrs 34 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+CSS                                159 hrs 33 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+JSON                               140 hrs 12 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 YAML                               111 hrs 2 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 Bash                               94 hrs 52 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Other                              65 hrs 9 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Markdown                           63 hrs 38 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Other                              65 hrs 9 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Markdown                           64 hrs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 HTML                               32 hrs 16 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 XML                                31 hrs 40 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 Groovy                             30 hrs 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Docker                             26 hrs 22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Text                               22 hrs 37 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Docker                             26 hrs 23 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Text                               22 hrs 47 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 PHP                                15 hrs 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 Go                                 15 hrs 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 TOML                               10 hrs 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
