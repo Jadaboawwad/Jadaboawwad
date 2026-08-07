@@ -86,6 +86,77 @@ Git Config                         8 hrs 25 mins         ░░░░░░░�
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.14%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1271 commits        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+🌆 Daytime                3240 commits        ████████████████░░░░░░░░░   64.77 % 
+🌃 Evening                394 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+🌙 Night                  97 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   684 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Tuesday                  734 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Wednesday                917 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Thursday                 643 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Friday                   320 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Saturday                 866 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Sunday                   838 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Amman
+
+💬 Programming Languages: 
+Dart                     3 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.42 % 
+TypeScript               1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+YAML                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Image (png)              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 28 mins       ██████████████████████░░░   88.67 % 
+Claude Code              49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+
+🐱‍💻 Projects: 
+mobile-user              3 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.80 % 
+wefix-frontend-oms       1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+wefix-backend-mms        1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Jadaboawwad              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+portfolio                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+
+💻 Operating System: 
+Linux                    7 hrs 18 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 50 mins (93.54%)
+
+✍️ 1,236 lines written by AI, 1 lines written by hand (99.92% AI-written)
+
+🔤 6,681,193 Input Tokens, 37,342 Output Tokens
+
+💵 $13.00 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 78 AI Prompts
+
+Cursor                   1,405 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.92% of written lines came from AI
+📄 Detailed Prompter — average 670 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -99,6 +170,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:25:06 UTC
+ Last Updated on 07/08/2026 19:29:21 UTC
 <!--END_SECTION:waka-->
 
