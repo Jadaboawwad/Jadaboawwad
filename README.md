@@ -80,30 +80,30 @@ Git Config                         8 hrs 25 mins         ░░░░░░░�
 ## 📊 Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C264%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C265%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-323%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-324%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.14%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1287 commits        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-🌆 Daytime                3255 commits        ████████████████░░░░░░░░░   64.62 % 
-🌃 Evening                398 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-🌙 Night                  97 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+🌞 Morning                1300 commits        ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+🌆 Daytime                3262 commits        ████████████████░░░░░░░░░   64.49 % 
+🌃 Evening                399 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+🌙 Night                  97 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   689 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Tuesday                  756 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Wednesday                917 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Thursday                 643 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Friday                   320 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Saturday                 870 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Sunday                   842 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Monday                   689 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Tuesday                  756 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Wednesday                938 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Thursday                 643 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Friday                   320 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Saturday                 870 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Sunday                   842 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
 ```
 
 
@@ -113,48 +113,47 @@ Sunday                   842 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Dart                     1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   40.93 % 
-YAML                     37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-TypeScript               30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-CSS                      25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Image (png)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Dart                     1 hr 40 mins        ███████████████░░░░░░░░░░   61.96 % 
+TypeScript               49 mins             ████████░░░░░░░░░░░░░░░░░   30.44 % 
+CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       █████████████████████░░░░   83.35 % 
-Claude Code              27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+VS Code                  2 hrs 38 mins       ████████████████████████░   97.45 % 
+Agent                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🐱‍💻 Projects: 
-mobile-user              1 hr 17 mins        ████████████░░░░░░░░░░░░░   47.33 % 
-wefix-frontend-oms       55 mins             █████████░░░░░░░░░░░░░░░░   34.08 % 
-Jadaboawwad              26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-assets                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-portfolio                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+mobile-user              1 hr 44 mins        ████████████████░░░░░░░░░   64.28 % 
+wefix-backend-mms        27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+wefix-frontend-oms       23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+wefix-backend-oms        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Downloads                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Linux                    2 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 42 mins (100.0%)
 
-✍️ 655 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 494 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,373,332 Input Tokens, 12,627 Output Tokens
+🔤 13,746 Input Tokens, 14,210 Output Tokens
 
-💵 $2.59 Estimated AI Cost This Week
+💵 $0.23 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 32 AI Prompts
+🧠 8 AI Sessions, 35 AI Prompts
 
-Cursor                   743 lines           █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   753 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,225 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 1,843 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -171,6 +170,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:35:00 UTC
+ Last Updated on 12/08/2026 19:37:55 UTC
 <!--END_SECTION:waka-->
 
