@@ -113,46 +113,45 @@ Sunday                   842 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        █████████████░░░░░░░░░░░░   52.54 % 
-Dart                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-CSS                      49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TypeScript               1 hr 42 mins        ████████████░░░░░░░░░░░░░   48.35 % 
+Dart                     58 mins             ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+CSS                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 50 mins       ████████████████████████░   95.73 % 
-Agent                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+VS Code                  3 hrs 22 mins       ████████████████████████░   95.77 % 
+Agent                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🐱‍💻 Projects: 
-wefix-frontend-oms       1 hr 47 mins        ███████████░░░░░░░░░░░░░░   44.46 % 
-mobile-user              1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-wefix-backend-mms        47 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-wefix-backend-oms        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+wefix-frontend-oms       1 hr 31 mins        ███████████░░░░░░░░░░░░░░   43.40 % 
+mobile-user              1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+wefix-backend-mms        35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+wefix-backend-oms        21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Linux                    4 hrs               █████████████████████████   100.00 % 
+Linux                    3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs (100.0%)
+⏱ AI Coding Time: 3 hrs 31 mins (100.0%)
 
-✍️ 2,454 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,195 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 16,579 Input Tokens, 17,043 Output Tokens
+🔤 11,120 Input Tokens, 11,120 Output Tokens
 
-💵 $0.25 Estimated AI Cost This Week
+💵 $0.08 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 66 AI Prompts
+🧠 12 AI Sessions, 53 AI Prompts
 
-Cursor                   2,790 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   2,537 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,206 characters per prompt
+📄 Detailed Prompter — average 1,080 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -170,6 +169,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 18:56:04 UTC
+ Last Updated on 17/08/2026 19:10:03 UTC
 <!--END_SECTION:waka-->
 
