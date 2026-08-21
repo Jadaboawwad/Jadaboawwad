@@ -113,47 +113,22 @@ Sunday                   842 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-TypeScript               37 mins             █████████████████░░░░░░░░   66.08 % 
-Dart                     17 mins             ████████░░░░░░░░░░░░░░░░░   30.09 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  52 mins             ███████████████████████░░   92.01 % 
-Agent                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wefix-frontend-oms       31 mins             ██████████████░░░░░░░░░░░   54.65 % 
-mobile-user              17 mins             ████████░░░░░░░░░░░░░░░░░   30.09 % 
-wefix-backend-mms        7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-wefix-backend-oms        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Jadaboawwad              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (100.0%)
-
-✍️ 4 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 334 Input Tokens, 334 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 20 AI Prompts
-
-Cursor                   4 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 151 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,6 +144,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:12:15 UTC
+ Last Updated on 21/08/2026 19:07:51 UTC
 <!--END_SECTION:waka-->
 
