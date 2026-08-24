@@ -80,24 +80,24 @@ Git Config                         8 hrs 25 mins         ░░░░░░░�
 ## 📊 Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C266%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C267%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-326%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.17%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1310 commits        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-🌆 Daytime                3296 commits        ████████████████░░░░░░░░░   64.53 % 
-🌃 Evening                405 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+🌞 Morning                1310 commits        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+🌆 Daytime                3296 commits        ████████████████░░░░░░░░░   64.51 % 
+🌃 Evening                406 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 🌙 Night                  97 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   689 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Monday                   690 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
 Tuesday                  756 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
 Wednesday                949 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 Thursday                 654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
@@ -113,22 +113,51 @@ Sunday                   847 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               29 mins             ███████████░░░░░░░░░░░░░░   44.36 % 
+Dart                     19 mins             ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+Claude Code              17 mins             ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+Agent                    15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Cursor                   13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+modern-portfolio         29 mins             ███████████░░░░░░░░░░░░░░   44.36 % 
+mobile-user              19 mins             ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+wefix-backend-oms        5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+plans                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 5 mins (100.0%)
+
+✍️ 79 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 163,420 Input Tokens, 25,061 Output Tokens
+
+💵 $2.66 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 17 AI Prompts
+
+Cursor                   71 lines            ██████████████████████░░░   89.87 % 
+Opus                     8 lines             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,687 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,6 +173,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:58:08 UTC
+ Last Updated on 24/08/2026 19:11:44 UTC
 <!--END_SECTION:waka-->
 
