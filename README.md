@@ -113,51 +113,51 @@ Sunday                   877 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-TypeScript               2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
-Text                     1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Dart                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-CSS                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+TypeScript               1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Dart                     52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Text                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 14 mins       ████████████░░░░░░░░░░░░░   49.07 % 
-Claude Code              3 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.12 % 
-Agent                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Cursor                   2 hrs 17 mins       ██████████████░░░░░░░░░░░   56.40 % 
+Claude Code              1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Agent                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🐱‍💻 Projects: 
-WeInterviewer            2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.84 % 
-mobile-user              1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-wefix-frontend-oms       1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Unknown Project          1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-terminals                56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+mobile-user              1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+WeInterviewer            33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+wefix-backend-mms        32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+mobile-technician        29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+wefix-frontend-oms       28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 
 💻 Operating System: 
-Linux                    8 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 39 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 3 mins (100.0%)
 
-✍️ 1,373 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,133 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 693,180 Input Tokens, 247,935 Output Tokens
+🔤 358,208 Input Tokens, 67,985 Output Tokens
 
-💵 $15.62 Estimated AI Cost This Week
+💵 $5.00 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 144 AI Prompts
+🧠 20 AI Sessions, 67 AI Prompts
 
-Grok                     1,322 lines         ████████████████████████░   94.23 % 
-Sonnet                   81 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Grok                     1,159 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,340 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 2,616 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -174,6 +174,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 21:14:35 UTC
+ Last Updated on 04/09/2026 20:56:57 UTC
 <!--END_SECTION:waka-->
 
