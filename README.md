@@ -49,18 +49,18 @@ My documented learning journey through full-stack development at **LTUC ASAC** �
 <!--START_SECTION:wakaall-->
 
 ```txt
-Total Time: 5,287 hrs 10 mins
+Total Time: 5,290 hrs 47 mins
 
-Dart                               2,143 hrs 30 mins     ██████████░░░░░░░░░░░░░░░   40.04 %
-TypeScript                         1,521 hrs 1 min       ███████░░░░░░░░░░░░░░░░░░   28.41 %
+Dart                               2,146 hrs 18 mins     ██████████░░░░░░░░░░░░░░░   40.07 %
+TypeScript                         1,521 hrs 25 mins     ███████░░░░░░░░░░░░░░░░░░   28.40 %
 Python                             458 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
 JavaScript                         349 hrs 42 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-CSS                                160 hrs 34 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+CSS                                160 hrs 37 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 JSON                               140 hrs 20 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-YAML                               112 hrs 23 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+YAML                               112 hrs 30 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 Bash                               95 hrs 16 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Other                              65 hrs 54 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Markdown                           64 hrs 36 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Other                              65 hrs 55 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Markdown                           64 hrs 49 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 HTML                               32 hrs 17 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 XML                                31 hrs 44 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 Groovy                             30 hrs 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
