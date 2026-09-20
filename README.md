@@ -113,54 +113,51 @@ Sunday                   1165 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Dart                     5 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.20 % 
-TypeScript               3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-JavaScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Dart                     5 hrs 35 mins       ███████████████░░░░░░░░░░   59.76 % 
+TypeScript               1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 19 mins       █████████████░░░░░░░░░░░░   50.85 % 
-Agent                    2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-VS Code                  2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-Claude Code              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Codex Vscode             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Cursor                   3 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.66 % 
+Agent                    2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+VS Code                  2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Claude Code              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🐱‍💻 Projects: 
-mobile-user              4 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.26 % 
-wefix-frontend-oms       2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-mobile-technician        1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-wefix-backend-oms        45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-modern-portfolio         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+mobile-user              4 hrs 43 mins       █████████████░░░░░░░░░░░░   50.53 % 
+mobile-technician        1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+wefix-frontend-oms       1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Chatbot                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 💻 Operating System: 
-Linux                    12 hrs 26 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 21 mins (99.26%)
+⏱ AI Coding Time: 9 hrs 15 mins (99.02%)
 
-✍️ 8,251 lines written by AI, 315 lines written by hand (96.32% AI-written)
+✍️ 6,177 lines written by AI, 315 lines written by hand (95.15% AI-written)
 
-🔤 610,953 Input Tokens, 341,122 Output Tokens
+🔤 105,346 Input Tokens, 46,595 Output Tokens
 
-💵 $6.72 Estimated AI Cost This Week
+💵 $1.39 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 202 AI Prompts
+🧠 25 AI Sessions, 149 AI Prompts
 
-Grok                     6,613 lines         ██████████████████░░░░░░░   73.30 % 
-Cursor                   2,348 lines         ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-Sonnet                   61 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     4,655 lines         █████████████████░░░░░░░░   66.47 % 
+Cursor                   2,348 lines         ████████░░░░░░░░░░░░░░░░░   33.53 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.32% of written lines came from AI
-📚 Verbose Prompter — average 6,061 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 4.41% of changed lines were hand-edited
+🤖 AI-Driven — 95.15% of written lines came from AI
+📄 Detailed Prompter — average 726 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 5.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -176,6 +173,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 20:55:45 UTC
+ Last Updated on 20/09/2026 21:00:39 UTC
 <!--END_SECTION:waka-->
 
