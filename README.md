@@ -89,21 +89,21 @@ Git Config                         8 hrs 26 mins         ░░░░░░░�
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1844 commits        ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-🌆 Daytime                4563 commits        ████████████████░░░░░░░░░   64.91 % 
-🌃 Evening                510 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-🌙 Night                  113 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+🌞 Morning                1845 commits        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+🌆 Daytime                4573 commits        ████████████████░░░░░░░░░   64.95 % 
+🌃 Evening                510 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+🌙 Night                  113 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1065 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Tuesday                  1119 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Wednesday                1284 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Thursday                 869 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Friday                   397 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Saturday                 1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Sunday                   1165 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Monday                   1076 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Tuesday                  1119 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Wednesday                1284 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Thursday                 869 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Friday                   397 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Saturday                 1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Sunday                   1165 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
 ```
 
 
@@ -113,51 +113,51 @@ Sunday                   1165 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Dart                     5 hrs 35 mins       ███████████████░░░░░░░░░░   59.76 % 
-TypeScript               1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Dart                     4 hrs 22 mins       ██████████████░░░░░░░░░░░   57.98 % 
+TypeScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.66 % 
-Agent                    2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-VS Code                  2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-Claude Code              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Agent                    2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.83 % 
+VS Code                  2 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
+Cursor                   2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+Claude Code              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 
 🐱‍💻 Projects: 
-mobile-user              4 hrs 43 mins       █████████████░░░░░░░░░░░░   50.53 % 
-mobile-technician        1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-wefix-frontend-oms       1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Chatbot                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+mobile-user              3 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.56 % 
+mobile-technician        1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+wefix-frontend-oms       34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Chatbot                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+wefix-backend-mms        25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 💻 Operating System: 
-Linux                    9 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 15 mins (99.02%)
+⏱ AI Coding Time: 7 hrs 27 mins (98.78%)
 
-✍️ 6,177 lines written by AI, 315 lines written by hand (95.15% AI-written)
+✍️ 4,869 lines written by AI, 315 lines written by hand (93.92% AI-written)
 
-🔤 105,346 Input Tokens, 46,595 Output Tokens
+🔤 105,224 Input Tokens, 46,473 Output Tokens
 
 💵 $1.39 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 149 AI Prompts
+🧠 23 AI Sessions, 133 AI Prompts
 
-Grok                     4,655 lines         █████████████████░░░░░░░░   66.47 % 
-Cursor                   2,348 lines         ████████░░░░░░░░░░░░░░░░░   33.53 % 
+Grok                     3,101 lines         ██████████████░░░░░░░░░░░   56.91 % 
+Cursor                   2,348 lines         ███████████░░░░░░░░░░░░░░   43.09 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.15% of written lines came from AI
-📄 Detailed Prompter — average 726 characters per prompt
+🤖 AI-Driven — 93.92% of written lines came from AI
+📄 Detailed Prompter — average 804 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 5.8% of changed lines were hand-edited
+🚀 High AI Trust — 7.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -173,6 +173,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 21:00:39 UTC
+ Last Updated on 21/09/2026 22:08:46 UTC
 <!--END_SECTION:waka-->
 
