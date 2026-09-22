@@ -89,21 +89,21 @@ Git Config                         8 hrs 26 mins         ░░░░░░░�
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1845 commits        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-🌆 Daytime                4573 commits        ████████████████░░░░░░░░░   64.95 % 
+🌞 Morning                1851 commits        ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+🌆 Daytime                4573 commits        ████████████████░░░░░░░░░   64.89 % 
 🌃 Evening                510 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 🌙 Night                  113 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1076 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Tuesday                  1119 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Wednesday                1284 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Thursday                 869 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Friday                   397 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Saturday                 1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Sunday                   1165 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Monday                   1076 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Tuesday                  1125 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Wednesday                1284 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Thursday                 869 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Friday                   397 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Saturday                 1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Sunday                   1165 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
 ```
 
 
@@ -113,51 +113,50 @@ Sunday                   1165 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Dart                     4 hrs 22 mins       ██████████████░░░░░░░░░░░   57.98 % 
-TypeScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Dart                     4 hrs 6 mins        ███████████████░░░░░░░░░░   61.75 % 
+TypeScript               1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🔥 Editors: 
-Agent                    2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.83 % 
-VS Code                  2 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
-Cursor                   2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-Claude Code              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Agent                    2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   34.45 % 
+VS Code                  2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.31 % 
+Cursor                   2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.15 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-mobile-user              3 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.56 % 
-mobile-technician        1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-wefix-frontend-oms       34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Chatbot                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-wefix-backend-mms        25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+mobile-user              3 hrs 28 mins       █████████████░░░░░░░░░░░░   52.19 % 
+mobile-technician        1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+wefix-frontend-oms       34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+wefix-backend-mms        25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 💻 Operating System: 
-Linux                    7 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 27 mins (98.78%)
+⏱ AI Coding Time: 6 hrs 38 mins (99.82%)
 
-✍️ 4,869 lines written by AI, 315 lines written by hand (93.92% AI-written)
+✍️ 4,869 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 105,224 Input Tokens, 46,473 Output Tokens
+🔤 21,740 Input Tokens, 21,740 Output Tokens
 
-💵 $1.39 Estimated AI Cost This Week
+💵 $0.17 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 133 AI Prompts
+🧠 18 AI Sessions, 115 AI Prompts
 
 Grok                     3,101 lines         ██████████████░░░░░░░░░░░   56.91 % 
 Cursor                   2,348 lines         ███████████░░░░░░░░░░░░░░   43.09 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.92% of written lines came from AI
-📄 Detailed Prompter — average 804 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 881 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 7.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -173,6 +172,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 22:08:46 UTC
+ Last Updated on 22/09/2026 21:35:07 UTC
 <!--END_SECTION:waka-->
 
