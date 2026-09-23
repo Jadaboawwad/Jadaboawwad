@@ -84,26 +84,26 @@ Git Config                         8 hrs 26 mins         ░░░░░░░�
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-353%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.64%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.67%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1851 commits        ███████░░░░░░░░░░░░░░░░░░   26.27 % 
-🌆 Daytime                4573 commits        ████████████████░░░░░░░░░   64.89 % 
-🌃 Evening                510 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+🌞 Morning                1853 commits        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+🌆 Daytime                4591 commits        ████████████████░░░░░░░░░   64.92 % 
+🌃 Evening                515 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 🌙 Night                  113 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1076 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Tuesday                  1125 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Wednesday                1284 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Thursday                 869 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Friday                   397 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Saturday                 1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Sunday                   1165 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Monday                   1076 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Tuesday                  1125 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Wednesday                1285 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Thursday                 871 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Friday                   415 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Saturday                 1135 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Sunday                   1165 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
 ```
 
 
@@ -113,49 +113,49 @@ Sunday                   1165 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Dart                     4 hrs 6 mins        ███████████████░░░░░░░░░░   61.75 % 
-TypeScript               1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Dart                     1 hr 18 mins        ███████████░░░░░░░░░░░░░░   43.33 % 
+TypeScript               50 mins             ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+XML                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🔥 Editors: 
-Agent                    2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   34.45 % 
-VS Code                  2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.31 % 
-Cursor                   2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.15 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Agent                    1 hr 23 mins        ███████████░░░░░░░░░░░░░░   45.74 % 
+Cursor                   1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   35.57 % 
+VS Code                  33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-mobile-user              3 hrs 28 mins       █████████████░░░░░░░░░░░░   52.19 % 
-mobile-technician        1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-wefix-frontend-oms       34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-wefix-backend-mms        25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+mobile-technician        1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   37.47 % 
+mobile-user              54 mins             ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+wefix-frontend-oms       25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+wefix-backend-oms        14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+wefix-backend-mms        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 💻 Operating System: 
-Linux                    6 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 38 mins (99.82%)
+⏱ AI Coding Time: 3 hrs 1 min (99.6%)
 
-✍️ 4,869 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,161 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 21,740 Input Tokens, 21,740 Output Tokens
+🔤 21,209 Input Tokens, 21,209 Output Tokens
 
 💵 $0.17 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 115 AI Prompts
+🧠 6 AI Sessions, 56 AI Prompts
 
-Grok                     3,101 lines         ██████████████░░░░░░░░░░░   56.91 % 
-Cursor                   2,348 lines         ███████████░░░░░░░░░░░░░░   43.09 % 
+Grok                     2,388 lines         ██████████████████░░░░░░░   72.54 % 
+Cursor                   904 lines           ███████░░░░░░░░░░░░░░░░░░   27.46 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 881 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 1,598 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -172,6 +172,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 21:35:07 UTC
+ Last Updated on 23/09/2026 21:41:01 UTC
 <!--END_SECTION:waka-->
 
