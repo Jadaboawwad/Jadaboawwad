@@ -113,24 +113,24 @@ Sunday                   1057 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Other                    37 mins             █████████░░░░░░░░░░░░░░░░   35.01 % 
-SSH Config               36 mins             █████████░░░░░░░░░░░░░░░░   34.32 % 
-Bash                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Other                    37 mins             █████████░░░░░░░░░░░░░░░░   34.85 % 
+SSH Config               36 mins             █████████░░░░░░░░░░░░░░░░   34.40 % 
+Bash                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🔥 Editors: 
-Claude Code              37 mins             █████████░░░░░░░░░░░░░░░░   35.01 % 
-VS Code                  31 mins             ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-Cursor                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Agent                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Claude Code              37 mins             █████████░░░░░░░░░░░░░░░░   34.85 % 
+VS Code                  31 mins             ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+Cursor                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Agent                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 
 🐱‍💻 Projects: 
-ssh                      31 mins             ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-Documents                16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Jadaboawwad              16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-mobile-user              14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-frontend                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+ssh                      31 mins             ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+Documents                16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Jadaboawwad              16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+mobile-user              14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+frontend                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 
 💻 Operating System: 
 Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
@@ -143,11 +143,11 @@ Linux                    1 hr 46 mins        ███████████�
 
 ✍️ 48 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 236,700 Input Tokens, 12,598 Output Tokens
+🔤 211,524 Input Tokens, 12,248 Output Tokens
 
-💵 $1.03 Estimated AI Cost This Week
+💵 $0.97 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 27 AI Prompts
+🧠 10 AI Sessions, 26 AI Prompts
 
 Cursor                   55 lines            ████████████████████████░   96.49 % 
 Grok                     2 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
@@ -155,8 +155,8 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 598 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 618 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -173,6 +173,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 22:49:57 UTC
+ Last Updated on 10/10/2026 21:57:21 UTC
 <!--END_SECTION:waka-->
 
