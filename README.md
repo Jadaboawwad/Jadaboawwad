@@ -113,50 +113,50 @@ Sunday                   1057 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-SSH Config               36 mins             ██████████░░░░░░░░░░░░░░░   40.98 % 
-Other                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Bash                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+SSH Config               36 mins             █████████████░░░░░░░░░░░░   50.42 % 
+Other                    19 mins             ███████░░░░░░░░░░░░░░░░░░   27.28 % 
+Text                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Dart                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████░░░░░░░░░░░░░░░░   34.75 % 
-Cursor                   21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-Claude Code              20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Agent                    16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+VS Code                  28 mins             ██████████░░░░░░░░░░░░░░░   38.92 % 
+Cursor                   21 mins             ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+Claude Code              19 mins             ███████░░░░░░░░░░░░░░░░░░   27.28 % 
+Agent                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🐱‍💻 Projects: 
-ssh                      31 mins             █████████░░░░░░░░░░░░░░░░   35.47 % 
-Jadaboawwad              16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-mobile-user              14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-frontend                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-wefix-frontend-oms       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+ssh                      31 mins             ███████████░░░░░░░░░░░░░░   43.63 % 
+Jadaboawwad              16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+mobile-user              13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+wefix-frontend-oms       4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+We Fix                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 💻 Operating System: 
-Linux                    1 hr 29 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 29 mins (100.0%)
+⏱ AI Coding Time: 1 hr 12 mins (100.0%)
 
-✍️ 48 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 94,388 Input Tokens, 8,652 Output Tokens
+🔤 68,716 Input Tokens, 8,411 Output Tokens
 
-💵 $0.49 Estimated AI Cost This Week
+💵 $0.41 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 19 AI Prompts
+🧠 6 AI Sessions, 16 AI Prompts
 
-Cursor                   55 lines            ████████████████████████░   96.49 % 
-Grok                     2 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Cursor                   6 lines             ███████████████████░░░░░░   75.00 % 
+Grok                     2 lines             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 652 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 768 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -173,6 +173,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 22:15:04 UTC
+ Last Updated on 13/10/2026 00:55:57 UTC
 <!--END_SECTION:waka-->
 
