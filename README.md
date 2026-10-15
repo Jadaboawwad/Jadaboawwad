@@ -80,9 +80,9 @@ Git Config                         8 hrs 26 mins         ░░░░░░░�
 ## 📊 Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C299%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C304%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-359%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-364%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.49%20million%20lines%20of%20code-blue?style=flat)
 
@@ -90,9 +90,9 @@ Git Config                         8 hrs 26 mins         ░░░░░░░�
 
 ```text
 🌞 Morning                1898 commits        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-🌆 Daytime                4349 commits        ████████████████░░░░░░░░░   63.48 % 
+🌆 Daytime                4349 commits        ████████████████░░░░░░░░░   63.47 % 
 🌃 Evening                491 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-🌙 Night                  113 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+🌙 Night                  114 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
@@ -101,7 +101,7 @@ Monday                   1059 commits        ████░░░░░░░�
 Tuesday                  1169 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
 Wednesday                1260 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 Thursday                 820 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Friday                   444 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Friday                   445 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 Saturday                 1042 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 Sunday                   1057 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 ```
@@ -113,50 +113,49 @@ Sunday                   1057 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-SSH Config               36 mins             █████████████░░░░░░░░░░░░   50.42 % 
-Other                    19 mins             ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-Text                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Dart                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Image (png)              5 hrs 53 mins       ████████████░░░░░░░░░░░░░   48.62 % 
+Markdown                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Go                       44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🔥 Editors: 
-VS Code                  28 mins             ██████████░░░░░░░░░░░░░░░   38.92 % 
-Cursor                   21 mins             ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-Claude Code              19 mins             ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-Agent                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+VS Code                  8 hrs 33 mins       ██████████████████░░░░░░░   70.66 % 
+Claude Code              2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Agent                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 
 🐱‍💻 Projects: 
-ssh                      31 mins             ███████████░░░░░░░░░░░░░░   43.63 % 
-Jadaboawwad              16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-mobile-user              13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-wefix-frontend-oms       4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-We Fix                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Unknown Project          2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+whatsapp-mcp             1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+p54                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+p57                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+mobile-user              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 💻 Operating System: 
-Linux                    1 hr 12 mins        █████████████████████████   100.00 % 
+Linux                    12 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 12 mins (100.0%)
+⏱ AI Coding Time: 12 hrs 6 mins (100.0%)
 
-✍️ 6 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,166 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 68,716 Input Tokens, 8,411 Output Tokens
+🔤 635,741 Input Tokens, 200,499 Output Tokens
 
-💵 $0.41 Estimated AI Cost This Week
+💵 $15.70 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 16 AI Prompts
+🧠 16 AI Sessions, 70 AI Prompts
 
-Cursor                   6 lines             ███████████████████░░░░░░   75.00 % 
-Grok                     2 lines             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   3,701 lines         ██████████████████░░░░░░░   70.47 % 
+Sonnet                   1,551 lines         ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 768 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 811 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -173,6 +172,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 21:54:00 UTC
+ Last Updated on 15/10/2026 21:37:44 UTC
 <!--END_SECTION:waka-->
 
