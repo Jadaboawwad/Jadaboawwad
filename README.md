@@ -49,21 +49,21 @@ My documented learning journey through full-stack development at **LTUC ASAC** �
 <!--START_SECTION:wakaall-->
 
 ```txt
-Total Time: 5,323 hrs 6 mins
+Total Time: 5,324 hrs 37 mins
 
-Dart                               2,159 hrs 3 mins      ██████████░░░░░░░░░░░░░░░   40.05 %
+Dart                               2,159 hrs 3 mins      ██████████░░░░░░░░░░░░░░░   40.04 %
 TypeScript                         1,524 hrs 15 mins     ███████░░░░░░░░░░░░░░░░░░   28.27 %
-Python                             459 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Python                             460 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
 JavaScript                         349 hrs 51 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
 CSS                                160 hrs 54 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 JSON                               141 hrs 16 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 YAML                               114 hrs 56 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Bash                               97 hrs 49 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Other                              67 hrs 44 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Bash                               98 hrs 22 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Other                              67 hrs 54 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 Markdown                           66 hrs 36 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 HTML                               32 hrs 25 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 XML                                32 hrs 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Groovy                             30 hrs 27 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Groovy                             30 hrs 27 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 Docker                             26 hrs 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 Text                               26 hrs 28 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 PHP                                15 hrs 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
