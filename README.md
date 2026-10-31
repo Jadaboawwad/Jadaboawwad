@@ -113,46 +113,41 @@ Sunday                   1065 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Python                   2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Bash                     2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.41 % 
-YAML                     1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Python                   57 mins             ██████████████░░░░░░░░░░░   56.78 % 
+Bash                     33 mins             ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 55 mins       █████████████████████████   99.57 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Claude Code              1 hr 40 mins        █████████████████████████   99.75 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-Android Control          5 hrs 9 mins        ███████████████████░░░░░░   74.25 % 
-Chatbot                  55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Jadaboawwad              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-android-remote-control-mc8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-modern-portfolio         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Android Control          1 hr 39 mins        █████████████████████████   98.84 % 
+Jadaboawwad              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Linux                    6 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 57 mins (100.0%)
+⏱ AI Coding Time: 1 hr 40 mins (100.0%)
 
-✍️ 1,123 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 446 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,846,079 Input Tokens, 601,708 Output Tokens
+🔤 321,685 Input Tokens, 148,186 Output Tokens
 
-💵 $56.50 Estimated AI Cost This Week
+💵 $13.84 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 130 AI Prompts
+🧠 2 AI Sessions, 24 AI Prompts
 
-Sonnet                   1,166 lines         █████████████████████████   100.00 % 
+Sonnet                   460 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,394 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 45 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -169,6 +164,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 22:35:41 UTC
+ Last Updated on 31/10/2026 21:49:26 UTC
 <!--END_SECTION:waka-->
 
