@@ -80,30 +80,30 @@ Git Config                         8 hrs 31 mins         ░░░░░░░�
 ## 📊 Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C324%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C326%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-385%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-387%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.59%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.68%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1903 commits        ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-🌆 Daytime                4413 commits        ████████████████░░░░░░░░░   63.51 % 
-🌃 Evening                512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-🌙 Night                  120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+🌞 Morning                1929 commits        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+🌆 Daytime                4483 commits        ████████████████░░░░░░░░░   63.51 % 
+🌃 Evening                527 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+🌙 Night                  120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1061 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Tuesday                  1173 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Wednesday                1262 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Thursday                 827 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Friday                   501 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Saturday                 1059 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Sunday                   1065 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Monday                   1089 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Tuesday                  1181 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Wednesday                1263 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Thursday                 835 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Friday                   555 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Saturday                 1071 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Sunday                   1065 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
 ```
 
 
@@ -113,41 +113,49 @@ Sunday                   1065 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Python                   57 mins             ██████████████░░░░░░░░░░░   56.78 % 
-Bash                     33 mins             ████████░░░░░░░░░░░░░░░░░   33.56 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+JavaScript               2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.81 % 
+Python                   1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Other                    1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🔥 Editors: 
-Claude Code              1 hr 40 mins        █████████████████████████   99.75 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Claude Code              3 hrs 53 mins       ███████████████░░░░░░░░░░   58.05 % 
+Cursor                   1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+Grok Bot                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Cursor Agent             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🐱‍💻 Projects: 
-Android Control          1 hr 39 mins        █████████████████████████   98.84 % 
-Jadaboawwad              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+modern-portfolio         2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.89 % 
+Chatbot                  2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.71 % 
+Unknown Project          44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Jadaboawwad              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+mobile-user              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 💻 Operating System: 
-Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 40 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 42 mins (100.0%)
 
-✍️ 446 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,189 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 321,685 Input Tokens, 148,186 Output Tokens
+🔤 1,586,461 Input Tokens, 473,533 Output Tokens
 
-💵 $13.84 Estimated AI Cost This Week
+💵 $48.67 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 24 AI Prompts
+🧠 26 AI Sessions, 104 AI Prompts
 
-Sonnet                   460 lines           █████████████████████████   100.00 % 
+Default                  734 lines           ██████████████░░░░░░░░░░░   56.25 % 
+Sonnet                   571 lines           ███████████░░░░░░░░░░░░░░   43.75 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 45 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📄 Detailed Prompter — average 595 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -164,6 +172,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 21:49:26 UTC
+ Last Updated on 12/11/2026 06:50:39 UTC
 <!--END_SECTION:waka-->
 
