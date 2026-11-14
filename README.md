@@ -113,49 +113,49 @@ Sunday                   1065 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-JavaScript               2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.25 % 
-Python                   1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-Other                    1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+JavaScript               2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.54 % 
+Python                   1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Other                    1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 46 mins       ██████████████░░░░░░░░░░░   57.31 % 
-Cursor                   1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   30.12 % 
-Grok Bot                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Cursor Agent             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Claude Code              3 hrs 37 mins       ██████████████░░░░░░░░░░░   56.99 % 
+Cursor                   1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+Grok Bot                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Cursor Agent             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🐱‍💻 Projects: 
-modern-portfolio         2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   34.76 % 
-Chatbot                  2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.30 % 
-Unknown Project          44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Jadaboawwad              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-mobile-user              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+modern-portfolio         2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.07 % 
+Chatbot                  2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.55 % 
+Unknown Project          44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Jadaboawwad              28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+wefix-frontend-oms       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Linux                    6 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 35 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 21 mins (100.0%)
 
-✍️ 1,189 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,179 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,480,241 Input Tokens, 458,235 Output Tokens
+🔤 1,471,836 Input Tokens, 455,093 Output Tokens
 
-💵 $47.94 Estimated AI Cost This Week
+💵 $47.66 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 103 AI Prompts
+🧠 22 AI Sessions, 100 AI Prompts
 
-Default                  734 lines           ██████████████░░░░░░░░░░░   56.25 % 
-Sonnet                   571 lines           ███████████░░░░░░░░░░░░░░   43.75 % 
+Default                  724 lines           ██████████████░░░░░░░░░░░   55.91 % 
+Sonnet                   571 lines           ███████████░░░░░░░░░░░░░░   44.09 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 600 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 616 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -172,6 +172,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2026 23:48:43 UTC
+ Last Updated on 14/11/2026 22:41:53 UTC
 <!--END_SECTION:waka-->
 
