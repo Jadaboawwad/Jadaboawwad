@@ -113,50 +113,50 @@ Sunday                   1078 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-JavaScript               2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.55 % 
-Python                   2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.51 % 
-Other                    1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+JavaScript               1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   35.10 % 
+Python                   1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Other                    47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+YAML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 6 mins        ███████████████████░░░░░░   75.74 % 
-Cursor                   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Grok Bot                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Cursor Agent             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Claude Code              3 hrs 26 mins       ██████████████████░░░░░░░   72.84 % 
+Cursor                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Grok Bot                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Cursor Agent             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 🐱‍💻 Projects: 
-Chatbot                  2 hrs 51 mins       ███████████░░░░░░░░░░░░░░   42.36 % 
-modern-portfolio         2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.70 % 
-Unknown Project          39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Jadaboawwad              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-wefix-backend-mms        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Chatbot                  1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   38.85 % 
+modern-portfolio         1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   35.91 % 
+Jadaboawwad              22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+wefix-backend-mms        17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 💻 Operating System: 
-Linux                    6 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 44 mins (99.96%)
+⏱ AI Coding Time: 4 hrs 43 mins (99.95%)
 
-✍️ 700 lines written by AI, 1 lines written by hand (99.86% AI-written)
+✍️ 640 lines written by AI, 1 lines written by hand (99.84% AI-written)
 
-🔤 1,519,899 Input Tokens, 497,548 Output Tokens
+🔤 941,365 Input Tokens, 348,249 Output Tokens
 
-💵 $61.67 Estimated AI Cost This Week
+💵 $51.27 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 119 AI Prompts
+🧠 12 AI Sessions, 92 AI Prompts
 
-Sonnet                   413 lines           ██████████████░░░░░░░░░░░   55.96 % 
-Default                  325 lines           ███████████░░░░░░░░░░░░░░   44.04 % 
+Sonnet                   353 lines           █████████████░░░░░░░░░░░░   52.06 % 
+Default                  325 lines           ████████████░░░░░░░░░░░░░   47.94 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📝 Concise Prompter — average 172 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🤖 AI-Driven — 99.84% of written lines came from AI
+📝 Concise Prompter — average 160 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -172,6 +172,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 01:08:36 UTC
+ Last Updated on 19/11/2026 00:40:13 UTC
 <!--END_SECTION:waka-->
 
