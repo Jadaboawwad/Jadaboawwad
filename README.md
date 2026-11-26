@@ -89,20 +89,20 @@ Git Config                         8 hrs 40 mins         ░░░░░░░�
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1933 commits        ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-🌆 Daytime                4532 commits        ████████████████░░░░░░░░░   63.60 % 
-🌃 Evening                537 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-🌙 Night                  124 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+🌞 Morning                1933 commits        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+🌆 Daytime                4532 commits        ████████████████░░░░░░░░░   63.59 % 
+🌃 Evening                537 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+🌙 Night                  125 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1090 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Monday                   1090 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
 Tuesday                  1183 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 Wednesday                1263 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Thursday                 839 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Thursday                 840 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 Friday                   592 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Saturday                 1080 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Saturday                 1080 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 Sunday                   1079 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 ```
 
@@ -113,49 +113,49 @@ Sunday                   1079 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Dart                     1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
-TypeScript               1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-YAML                     1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Python                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Dart                     1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+TypeScript               1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+YAML                     1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Python                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 3 mins        ████████████░░░░░░░░░░░░░   49.05 % 
-Cursor                   2 hrs 53 mins       ████████████░░░░░░░░░░░░░   46.23 % 
-Cursor Agent             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Claude Code              3 hrs 3 mins        ████████████░░░░░░░░░░░░░   47.77 % 
+Cursor                   3 hrs 1 min         ████████████░░░░░░░░░░░░░   47.27 % 
+Cursor Agent             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🐱‍💻 Projects: 
-Chatbot                  1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   31.70 % 
-mobile-user              1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   28.86 % 
-frontend                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-RealEstate               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-backend                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Chatbot                  1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   30.87 % 
+mobile-user              1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+frontend                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+RealEstate               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+backend                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 
 💻 Operating System: 
-Linux                    6 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 14 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 24 mins (100.0%)
 
-✍️ 8,898 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,051 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 764,760 Input Tokens, 387,515 Output Tokens
 
 💵 $39.62 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 128 AI Prompts
+🧠 16 AI Sessions, 132 AI Prompts
 
-Default                  8,781 lines         █████████████████████░░░░   82.88 % 
-Sonnet                   1,814 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Default                  8,934 lines         █████████████████████░░░░   83.12 % 
+Sonnet                   1,814 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,774 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 3,661 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -172,6 +172,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2026 02:43:30 UTC
+ Last Updated on 26/11/2026 01:56:36 UTC
 <!--END_SECTION:waka-->
 
