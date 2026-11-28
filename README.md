@@ -113,49 +113,49 @@ Sunday                   1079 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Amman
 
 💬 Programming Languages: 
-Dart                     1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-YAML                     1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-TypeScript               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Python                   51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+YAML                     1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+TypeScript               55 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Python                   51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 3 mins        █████████████░░░░░░░░░░░░   50.07 % 
-Cursor                   2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   44.89 % 
-Cursor Agent             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Claude Code              3 hrs 3 mins        ██████████████████░░░░░░░   71.92 % 
+Cursor                   1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+Cursor Agent             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projects: 
-Chatbot                  1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   32.36 % 
-mobile-user              1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   32.08 % 
-frontend                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-RealEstate               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-backend                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Chatbot                  1 hr 58 mins        ████████████░░░░░░░░░░░░░   46.59 % 
+frontend                 55 mins             █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+RealEstate               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+backend                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+mobile-user              16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 
 💻 Operating System: 
-Linux                    6 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 6 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 14 mins (100.0%)
 
-✍️ 8,997 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,225 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 764,760 Input Tokens, 387,515 Output Tokens
+🔤 738,420 Input Tokens, 387,095 Output Tokens
 
-💵 $39.62 Estimated AI Cost This Week
+💵 $39.54 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 128 AI Prompts
+🧠 8 AI Sessions, 68 AI Prompts
 
-Default                  8,880 lines         █████████████████████░░░░   83.04 % 
-Sonnet                   1,814 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Default                  4,560 lines         ██████████████████░░░░░░░   71.54 % 
+Sonnet                   1,814 lines         ███████░░░░░░░░░░░░░░░░░░   28.46 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,767 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 242 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -172,6 +172,6 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2026 01:54:18 UTC
+ Last Updated on 28/11/2026 01:36:22 UTC
 <!--END_SECTION:waka-->
 
